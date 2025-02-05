@@ -42,7 +42,7 @@ export default function Home({allPostsData}) {
     </Head>
     <section className={utilStyle.headingMd}>
       <p>
-        私はNextjsくっそ初心者です。日曜数学者です。
+        私はNextjsくっそできます。nexjsできすぎ日曜数学者です。
       </p>
     </section>
 
